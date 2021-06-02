@@ -12,7 +12,7 @@
 
 @ [LR Docs](https://docs.lonelyreader.com)
 
-### - Changelog（https://docs.lonelyreader.com/#/changelog）
+### - [Changelog](https://docs.lonelyreader.com/#/changelog)
 
 ### - 联系开发团队
 
